@@ -1,0 +1,2 @@
+# EqualBI
+Projeto de BI
