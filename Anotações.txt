@@ -1,0 +1,4 @@
+1) Criado a DB em PostgreSQL
+2) Criado as tabelas conforme /PostgreSQL DB/tables.sql
+3) Realizado a importação dos Dados para a DB
+4) Realizado tratamento prévio/limpeza dos dados 
