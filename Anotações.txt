@@ -1,4 +1,15 @@
 1) Criado a DB em PostgreSQL
 2) Criado as tabelas conforme /PostgreSQL DB/tables.sql
 3) Realizado a importação dos Dados para a DB
-4) Realizado tratamento prévio/limpeza dos dados 
+4) Realizado tratamento prévio/limpeza dos dados
+
+----
+
+Ideias de análises:
+
+-Vendas por filial
+-Produtos mais vendidos
+-Valor de Vendas por vendedor
+-Quantidade de Vendas por vendedor
+-quantidade de produtos vendidos (total e por venda) por vendedor
+-Razão Valor total de Venda/Quantidade de Vendas por vendedor
